@@ -1,0 +1,4 @@
+﻿  RemoteThreadInject.cpp
+D:\Aur4r0\Github\RemoteThreadInject\RemoteThreadInject\RemoteThreadInject.cpp(101,61): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+D:\Aur4r0\Github\RemoteThreadInject\RemoteThreadInject\RemoteThreadInject.cpp(101,61): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  RemoteThreadInject.vcxproj -> D:\Aur4r0\Github\RemoteThreadInject\Debug\RemoteThreadInject.exe
